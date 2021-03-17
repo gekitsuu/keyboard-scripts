@@ -13,7 +13,7 @@ def main():
     """Setup keyboard shortcuts"""
 
     while True:
-        do_phrase("furyiff", 17)
+        do_phrase("foo", 17)
 
 
 if __name__ == "__main__":
